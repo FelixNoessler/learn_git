@@ -39,7 +39,7 @@ git branch
 git branch <branchname>
 
 # change the current branch (commit everything before doing this!)
-git checkout <branchname>
+git switch <branchname>
 
 # merge another branch into the master branch (do it when you are at the master branch)
 # it is possible that you have to resolve merge conflicts!
